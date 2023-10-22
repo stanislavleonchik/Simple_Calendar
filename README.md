@@ -1,1 +1,1 @@
-# Laboratory work on the calendar using Python
+# An example of console calendar using Python
